@@ -6,7 +6,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 var express_1 = __importDefault(require("express"));
 var app = express_1.default();
 app.get('/', function (req, res) {
-    return res.send('hello node + ts');
+    return res.send({ msg: 'hello express + typescript 2' });
 });
 app.listen(8080, function () {
     console.log('servidor rodando');

@@ -1,1 +1,31 @@
 notion: https://www.notion.so/leoporto/ReactJS-Typescript-f6507344c6694359a35e8a5f31f1c411
+
+lista de comandos
+
+1 - criando o projeto
+
+npm init -y
+
+2 - adicionando Typescript
+
+npm i -g typescript
+
+ou
+
+npm i typescript -D
+
+3 - configurando o express
+
+npm i @types/express -s
+
+4 - compilando o arquivo .ts 
+
+tsc index.ts 
+
+5 - criando o arquivo de configuração do ts 
+
+tsc init 
+
+6 - rodando as configurações
+
+yarn tsc
