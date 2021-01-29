@@ -1,4 +1,4 @@
-import * as express from 'express'
+import express from 'express'
 
 const app = express()
 
@@ -6,7 +6,7 @@ const app = express()
 
 app.get('/', (req, res)=>{
 
-    return res.send('hello node + ts')
+    return res.send({msg: 'hello express + typescript 2'})
 
 
 })
