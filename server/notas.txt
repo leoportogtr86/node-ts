@@ -29,3 +29,7 @@ tsc init
 6 - rodando as configurações
 
 yarn tsc
+
+7 - instalando o ts-node-dev
+
+npm i ts-node-dev -D
