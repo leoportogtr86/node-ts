@@ -6,7 +6,7 @@ const app = express()
 
 app.get('/', (req, res)=>{
 
-    return res.send({msg: 'hello express + typescript 3'})
+    return res.send({msg: 'hello express + typescript 10'})
 
 
 })
