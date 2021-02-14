@@ -35,7 +35,7 @@ ou
 
     yarn tsc
 
-7. Criação do Script para Rodar o Projeto
+7.Criação do Script para Rodar o Projeto
 
     "dev:server": "ts-node-dev --respawn  --transpile-only src/index.ts"
 
