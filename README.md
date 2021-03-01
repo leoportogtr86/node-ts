@@ -29,7 +29,7 @@ ou
 
 5.Criando o Arquivo de Configuração do Typescript 
 
-    tsc init 
+    tsc --init 
 
 6.Rodando as Configurações
 
